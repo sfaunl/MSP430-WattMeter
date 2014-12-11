@@ -1,0 +1,21 @@
+Parts not found in 3dpack.dat or 3dusrpac.dat are:
+//H1		PAD_0.1000
+//H2		PAD_0.1000
+//H3		PAD_0.1000
+//H4		PAD_0.1000
+//H5		PAD_0.1000
+//H6		PAD_0.1000
+//H7		PAD_0.1000
+//H8		PAD_0.1000
+//JP1		1X04-1.27MM
+//JP2		1X04-1.27MM
+//JP3		1X04-1.27MM
+//JP4		1X04-1.27MM
+//JP5		1X04-1.27MM
+//Q3		TC38H
+//R2		AXIAL-0.8
+//R19		AXIAL-0.8
+//SJ1		SJ_3
+//SJ2		SJ_3
+//SJ3		SJ_3
+//U$2	HD44780LCD-1602	LCD1602
